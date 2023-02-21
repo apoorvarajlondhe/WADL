@@ -1,3 +1,3 @@
 # WADL
 
-This is the fucking WADL repo
+This is the WADL repo
